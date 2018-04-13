@@ -1,5 +1,5 @@
 # Switching-Exploration
-We will release the implementation of our work if it is accepted in a conference.
+We will release the implementation of our work if it is accepted in a conference of ECML-PKDD.
 
 # License
 ISI Research License, Version 1.0, © 2016
